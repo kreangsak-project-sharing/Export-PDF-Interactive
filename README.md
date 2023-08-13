@@ -1,5 +1,5 @@
 # Export-PDF-Interactive
-InDesign Script for Export PDF Interactive.
+InDesign Script for Export PDF Interactive.<br>
 Path: C:\Program Files\Adobe\Adobe InDesign 2023\Scripts\Scripts Panel
 
 ## Reference
